@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.row{
+    display: flex;
+}
+body{
+    background-color: gray;
+}
+.side-bars{
+    background: black;
+    width: 20%;
+    height: 100vh;
+    padding-top: 5%;
+    
+}
+.link{
+    text-decoration: none;
+    color:white;
+    margin: 13%
+}
+.home{
+    padding-bottom: 10%;
+}
+.about{
+    padding-bottom: 10%;
+}
+.contents{
+    text-align: center;
+    margin: auto;
+}
+
